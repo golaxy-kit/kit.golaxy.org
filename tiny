@@ -1,9 +1,9 @@
 <html>
     <head>
-        <meta name="go-import" content="kit.golaxy.org/tiny git https://github.com/golaxy-kit/tiny">
-        <meta http-equiv="refresh" content="0;URL='https://github.com/golaxy-kit/tiny'">
+        <meta name="go-import" content="git.golaxy.org/tiny git https://github.com/pangdogs/tiny">
+        <meta http-equiv="refresh" content="0;URL='https://github.com/pangdogs/tiny'">
     </head>
     <body>
-        Redirecting you to the <a href="https://github.com/golaxy-kit/tiny">project page</a>...
+        Redirecting you to the <a href="https://github.com/pangdogs/tiny">project page</a>...
     </body>
 </html>
