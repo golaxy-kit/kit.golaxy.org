@@ -1,9 +1,9 @@
 <html>
     <head>
-        <meta name="go-import" content="git.golaxy.org/core git https://github.com/pangdogs/golaxy">
-        <meta http-equiv="refresh" content="0;URL='https://github.com/pangdogs/golaxy'">
+        <meta name="go-import" content="git.golaxy.org/core git https://github.com/pangdogs/core">
+        <meta http-equiv="refresh" content="0;URL='https://github.com/pangdogs/core'">
     </head>
     <body>
-        Redirecting you to the <a href="https://github.com/pangdogs/golaxy">project page</a>...
+        Redirecting you to the <a href="https://github.com/pangdogs/core">project page</a>...
     </body>
 </html>
